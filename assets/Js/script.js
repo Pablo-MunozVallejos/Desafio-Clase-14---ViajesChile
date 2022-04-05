@@ -59,3 +59,15 @@ $(".titulo").click(function(){
 $('.imagen_destacado').click(function(){
   $('.card-text, .card-title').show('fast');
 });    
+
+
+
+
+/* <!-- Sección 6 : Contacto/Suscribirse --> */
+
+
+
+
+/* <!-- Sección 7 : Footer/Pie de página --> */
+
+
