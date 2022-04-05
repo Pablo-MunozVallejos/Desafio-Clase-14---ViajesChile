@@ -21,4 +21,9 @@ body{
 /* <!-- Sección 4 : Suscribete --> */
 
 
+/* <!-- Sección 5 : Tarjetas destacados --> */
+.imagen_destacado{
+    height: 200px !important;
+}
+
 

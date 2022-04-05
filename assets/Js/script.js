@@ -31,8 +31,10 @@ $("#btn-nav").click(function(){
 
 
 /* <!-- Sección 2 : Carrusel --> */
+
 /* <!-- Sección 3 : Presentación/¿Quienes Somos? --> */
-/* <!-- Sección 4 : Suscribete --> */
+
+
 /* <!-- Sección 4 : Suscribete --> */
 $ (function(){
   $('#suscribete').click(function(){
@@ -46,4 +48,14 @@ $ (function(){
   $('#suscribete').click(function(){
           alert ("Suscrito exitosamente....")
   })
-})
+});
+
+
+/* <!-- Sección 5 : Tarjetas destacados --> */
+$(".titulo").click(function(){
+  $('.card-text, .card-title').toggle('fast');
+  });
+
+$('.imagen_destacado').click(function(){
+  $('.card-text, .card-title').show('fast');
+});    
