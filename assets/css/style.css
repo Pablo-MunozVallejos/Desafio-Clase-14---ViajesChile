@@ -9,6 +9,7 @@ body{
     width: 2rem;
 }
 
+
 /* <!-- Sección 2 : Carrusel --> */
 
 
@@ -32,4 +33,16 @@ body{
     text-align: left;
 }
 
+
+/* <!-- Sección 7 : Footer/Pie de página --> */
+#seccion7{
+    background-color: rgba(94, 175, 230, 0.123);
+}
+h2{
+    color: white ;
+    font-weight: 700;
+}
+#seccion7 i{
+    color: white;
+}
 
