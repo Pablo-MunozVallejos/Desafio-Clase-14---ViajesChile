@@ -33,3 +33,17 @@ $("#btn-nav").click(function(){
 /* <!-- Sección 2 : Carrusel --> */
 /* <!-- Sección 3 : Presentación/¿Quienes Somos? --> */
 /* <!-- Sección 4 : Suscribete --> */
+/* <!-- Sección 4 : Suscribete --> */
+$ (function(){
+  $('#suscribete').click(function(){
+    var Email = prompt ("Ingrese su correo")
+    var suscribete = `Se agrego la siguiente dirección de correo: ${Email} pronto recibirás recomendaciones personalizadas y ofertas exclusivas`
+    alert (suscribete)
+  })
+});
+
+$ (function(){
+  $('#suscribete').click(function(){
+          alert ("Suscrito exitosamente....")
+  })
+})
