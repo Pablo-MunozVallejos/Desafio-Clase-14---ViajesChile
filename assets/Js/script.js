@@ -30,3 +30,6 @@ $("#btn-nav").click(function(){
 });
 
 
+/* <!-- Sección 2 : Carrusel --> */
+/* <!-- Sección 3 : Presentación/¿Quienes Somos? --> */
+/* <!-- Sección 4 : Suscribete --> */
